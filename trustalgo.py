@@ -1,4 +1,4 @@
-#Running in venv
+#Run in venv
 #source work/bin/activate
 
 import os 
